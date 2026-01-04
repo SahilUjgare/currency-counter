@@ -27,3 +27,4 @@ Enter base currency (e.g., USD, EUR, INR): USD
 Enter amount in USD: 100
 Enter target currency: INR
 100 USD = 8325.00 INR
+
